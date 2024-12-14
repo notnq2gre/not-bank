@@ -1,2 +1,2 @@
-# not-bank
-Telegram bot creating a whole bank! (likely)
+# NotBank
+Telegram bot creating a whole bank! (probably)
